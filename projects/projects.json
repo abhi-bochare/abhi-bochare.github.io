@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Meal Master - Meal Planning App",
+    "desc": "A full-stack application designed to help users plan, track, and analyze meals. Features include user authentication, recipe planner, nutrition insights, and meal tracking.",
+    "image": "meal_master.jpg",
+    "category": "React, Node.js, Express.js, MongoDB",
+    "links": {
+      "view": "https://meal-masterr.netlify.app/",
+      "code": "https://github.com/abhi-bochare/Meal_Master_App"
+    }
+  },
+  {
+    "name": "Destination Recommendation Platform",
+    "desc": "A personalized travel platform recommending destinations based on interests, budget, and travel style, integrated with Firebase Auth and interactive maps.",
+    "image": "destinations.jpg",
+    "category": "React, Redux, TailwindCSS, Firebase",
+    " techstacks": [
+      {
+        "name": "React",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+      },
+      {
+        "name": "TailwindCSS",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+      },
+      {
+        "name": "Firebase",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+      }
+    ],
+    "links": {
+      "view": "https://dest-recommendation.netlify.app/",
+      "code": "https://github.com/abhi-bochare/Destination-Recommendation-Platform"
+    }
+  },
+  {
+    "name": "Payout Automation System",
+    "desc": "Built a full-stack payout automation system, featuring secure role-based dashboards for EdTech mentors and admins. Enabled seamless session assignment, automated payout calculations, and monthly receipt generation to simplify and optimize mentor compensation.",
+    "image": "PayoutPro.jpg",
+    "category": "React, TailwindCSS, Firebase",
+    "links": {
+      "view": "https://payout-automation-system.netlify.app/",
+      "code": "https://github.com/abhi-bochare/Payout-Automation-System"
+    }
+  },
+  {
+    "name": "Priscription and Medication Management Tool",
+    "desc": "Web-based full-stack application that enables users to efficiently manage their daily medications. From adding prescriptions to tracking history and personal health details — everything is streamlined in one place.",
+    "image": "priscription.jpg",
+    "category": "basicweb",
+    "links": {
+      "view": "https://sage-manatee-de736a.netlify.app/",
+      "code": "https://github.com/abhi-bochare/Prescription-and-Medication-Management-Tool"
+    }
+  },
+  {
+    "name": "FinTrack - Personal Finance Tracker",
+    "desc": "A responsive web application built with React, Tailwind CSS, and Firebase Firestore that helps users manage their income and expenses. Includes real-time transaction syncing, filtering, sorting, editing, and balance visualization, secured with Firebase Authentication.",
+    "image": "fintrack.jpg",
+    "category": "React,Redux",
+    "links": {
+      "view": "https://fintrack-personal-finance-tracker.netlify.app/",
+      "code": "https://github.com/abhi-bochare/FinTrack-Personal-Finance-Tracker"
+    }
+  }
+]
