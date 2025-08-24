@@ -285,7 +285,7 @@ resume1.addEventListener("click", function () {
   const downloadUrl =
     "https://drive.google.com/file/d/1Ircaf_RX82XEkIl9GzS6cWBiRuISnyq_/view?usp=sharing";
 
-  // window.open(previewUrl, "target");
+  window.open(previewUrl, "target");
   window.location.href = downloadUrl;
 });
 
