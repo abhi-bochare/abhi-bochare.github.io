@@ -278,14 +278,18 @@ srtop.reveal(".contact-c .container .form-group", { delay: 400 });
 //navbar resume btn
 
 var resume1 = document.getElementById("resume-button-1");
-resume1.addEventListener("click", function () {
-  // const previewUrl =
-  //   "https://drive.google.com/file/d/1Ircaf_RX82XEkIl9GzS6cWBiRuISnyq_/view?usp=sharing";
 
-  const downloadUrl =
+resume1.addEventListener("click", function () {
+  const previewUrl =
     "https://drive.google.com/file/d/1Ircaf_RX82XEkIl9GzS6cWBiRuISnyq_/view?usp=sharing";
 
-  window.open(previewUrl, "target");
+  const downloadUrl =
+    "https://drive.google.com/uc?export=download&id=1Ircaf_RX82XEkIl9GzS6cWBiRuISnyq_";
+
+  // Open preview in new tab
+  window.open(previewUrl, "_blank");
+
+  // Trigger download at the same time
   window.location.href = downloadUrl;
 });
 
