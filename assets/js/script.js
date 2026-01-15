@@ -281,10 +281,10 @@ var resume1 = document.getElementById("resume-button-1");
 
 resume1.addEventListener("click", function () {
   const previewUrl =
-    "https://drive.google.com/file/d/1Ircaf_RX82XEkIl9GzS6cWBiRuISnyq_/view?usp=sharing";
+    "https://drive.google.com/file/d/1hANSVQg6Sri5zRaM6MtIZsv6IcnM5gUr/view?usp=sharing";
 
   const downloadUrl =
-    "https://drive.google.com/uc?export=download&id=1Ircaf_RX82XEkIl9GzS6cWBiRuISnyq_";
+    "https://drive.google.com/uc?export=download&id=1hANSVQg6Sri5zRaM6MtIZsv6IcnM5gUr";
 
   // Open preview in new tab
   window.open(previewUrl, "_blank");
